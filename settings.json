@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "XMCSMP.aternos.me:49446",
+    "ip": "bernedoodle.aternos.host:49446",
     "port":  49446,
     "version": "",
     "try-creative": false
